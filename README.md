@@ -1,2 +1,10 @@
-# strap-handle-structural-analysis-
-Projekt akademicki obejmujący analizę wytrzymałościową uchwytu paskowego używanego w transporcie publicznym, przeprowadzoną w programie ANSYS. Analiza obejmuje odkształcenia, naprężenia i współczynnik bezpieczeństwa przy obciążeniu 1500N.  
+# Strap Handle Structural Analysis  
+
+## Opis projektu  
+Projekt akademicki mający na celu analizę wytrzymałościową uchwytu paskowego stosowanego w transporcie publicznym. Przeprowadzono symulacje w ANSYS, uwzględniając parametry geometryczne, obciążenia i właściwości materiałowe.  
+
+## Zakres projektu  
+- Modelowanie geometryczne w ANSYS SpaceClaim  
+- Definicja warunków brzegowych i obciążeń  
+- Generowanie siatki i analiza naprężeń oraz odkształceń  
+- Ocena współczynnika bezpieczeństwa  
